@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Landin-page-App-website/static/css/main.2db67d23.css",
-    "main.js": "/Landin-page-App-website/static/js/main.3f78e14e.js",
+    "main.js": "/Landin-page-App-website/static/js/main.756af3b6.js",
     "static/js/787.d7e08009.chunk.js": "/Landin-page-App-website/static/js/787.d7e08009.chunk.js",
     "static/media/img15.jpg": "/Landin-page-App-website/static/media/img15.a6da6b498fd7eed0ca0b.jpg",
     "static/media/Frame 19.png": "/Landin-page-App-website/static/media/Frame 19.0290bb5a48c48e1b374a.png",
@@ -12,11 +12,11 @@
     "static/media/feature_3.png": "/Landin-page-App-website/static/media/feature_3.0fadb17c93d531691fd5.png",
     "index.html": "/Landin-page-App-website/index.html",
     "main.2db67d23.css.map": "/Landin-page-App-website/static/css/main.2db67d23.css.map",
-    "main.3f78e14e.js.map": "/Landin-page-App-website/static/js/main.3f78e14e.js.map",
+    "main.756af3b6.js.map": "/Landin-page-App-website/static/js/main.756af3b6.js.map",
     "787.d7e08009.chunk.js.map": "/Landin-page-App-website/static/js/787.d7e08009.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2db67d23.css",
-    "static/js/main.3f78e14e.js"
+    "static/js/main.756af3b6.js"
   ]
 }
